@@ -34,5 +34,7 @@ This project also uses BeautifulSoup4 to scrape through the website to collect a
 Sources for information are:
 
 [Articles](https://www.theguardian.com/)
+
 [Movies](http://www.imdb.com/)
+
 [Songs](http://www.billboard.com/)
