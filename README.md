@@ -31,6 +31,7 @@ heroku config:add VERIFY_TOKEN=<verify_token>
 Now all is set, link the page with the chatfuel design and it should work outside the box.
 
 This project also uses BeautifulSoup4 to scrape through the website to collect and display data
+
 Sources for information are:
 
 [Articles](https://www.theguardian.com/)
