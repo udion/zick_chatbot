@@ -39,3 +39,7 @@ Sources for information are:
 [Movies](http://www.imdb.com/)
 
 [Songs](http://www.billboard.com/)
+
+Other helpful links are:
+
+[Introduction to chatbots](https://blog.hartleybrody.com/fb-messenger-bot/)
