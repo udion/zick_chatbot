@@ -1,7 +1,7 @@
 # zick_chatbot
 It's a basic chatbot for messenger powered by Chatfuel
 The webhook has been placed on the server at heroku and the backend is python
-to make it work we need to make sure that the server is runningand also it is recommended to 
+to make it work we need to make sure that the server is running and also it is recommended to 
 run the files in virtual environment as follows:
 
 go to the directory containing the directory of this help
